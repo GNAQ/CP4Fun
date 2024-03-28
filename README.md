@@ -10,6 +10,8 @@
 
 ## Update Log
 
+- 2024/03/29: add [AtCoder ABC346](https://atcoder.jp/contests/abc346) Problem F.
+
 - 2024/03/18: add [Codeforces Edu Round 163](https://codeforces.com/contest/1948), Problem A-F.
 
 - 2024/01/10: add [AtCoder ABC335](https://atcoder.jp/contests/abc335) Problem F.
